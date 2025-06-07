@@ -1,0 +1,31 @@
+IMO Data Analysis Summary Statistics
+==================================================
+
+Basic Statistics:
+Total Participants: 21707
+Number of Countries: 157
+Year Range: 1959-2024
+Average Total Score: 15.98
+Score Standard Deviation: 10.47
+Gold Medal Winners: 1765
+Silver Medal Winners: 3623
+Bronze Medal Winners: 5345
+
+Problem Statistics:
+        p1    p2    p3    p4    p5    p6
+mean  4.36  2.71  1.21  4.06  2.46  0.97
+std   2.90  2.90  2.21  2.95  2.85  2.05
+
+Top Countries Ranking:
+                                       total  award  contestant
+country                                                        
+People's Republic of China             34.81  80.43         230
+Union of Soviet Socialist Republics    32.70  36.76         204
+United States of America               31.04  48.08         312
+Russian Federation                     30.74  58.89         180
+Republic of Korea                      27.80  42.79         222
+Hungary                                27.68  19.29         420
+Romania                                26.70  20.09         428
+Vietnam                                26.32  23.96         288
+Democratic People's Republic of Korea  26.06  30.56          72
+Taiwan                                 25.71  23.23         198
