@@ -6,6 +6,7 @@
 *.swp
 *.swo
 *~
+.history/
 
 # Python
 __pycache__/
